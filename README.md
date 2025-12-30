@@ -109,8 +109,11 @@ Benefits:
 
 
 - SHAP summary plot
+  
   <img width="567" height="708" alt="image" src="https://github.com/user-attachments/assets/d8adc58c-baca-4682-a5c1-46e0ab16be00" />
+
   <img width="574" height="683" alt="image" src="https://github.com/user-attachments/assets/971b80f5-404f-451c-8896-fd729e3059e0" />
+
   <img width="575" height="143" alt="image" src="https://github.com/user-attachments/assets/383de3cc-a3d6-4551-b4f9-81d8ade039ce" />
   
 ---
